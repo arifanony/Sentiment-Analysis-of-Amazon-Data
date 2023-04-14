@@ -2,6 +2,7 @@
 # Amazon Review Sentiment Analysis
 ![Amazon logo](https://user-images.githubusercontent.com/88264074/230715202-bca3968c-0d3b-45cb-95df-4ca86fd3fc81.png)
 SENTIMENTAL ANALYSIS: ANALYSIS OF SENTIMENT USING NLP (Deep Learning, Text Mining)
+
 Business Objective: Analysing customer sentiments about Amazon products and services can help identify areas 
 where customers are dissatisfied, enabling the company to address these issues and improve overall customer 
 satisfaction.
